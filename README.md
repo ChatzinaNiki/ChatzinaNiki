@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChatzinaNiki
 - 👀 I’m interested in coding and networks
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
