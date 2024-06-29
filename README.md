@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChatzinaNiki
+- 👋 Hi, I’m @ChatzinaNiki (wannabe programmer)
 - Master's Degree --> Informatics and Applications, University of West Attica
 - Postgraduate student --> Next generation communication networks and distributed application environments, University of West Attica
 - Student --> Coding Factory - Athens University of Economics and Business
